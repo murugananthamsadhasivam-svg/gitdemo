@@ -6,3 +6,4 @@
 "option2-dev1-work3"
 "option2-dev2-work3"
 "option 3 - dev 1 - work 4 - rebase logic" 
+"option 3 for resolving conflict using Rebase - DEV2 - WORK4" 
