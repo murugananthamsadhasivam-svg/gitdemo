@@ -1,4 +1,5 @@
 "Git Demo for Normal flow and resolving Conflict" 
 "Normal Flow - Dev1-Work1" 
-"NORMAL FLOW - DEV2 - WORK1" 
+"NORMAL FLOW - DEV2 - WORK1"
 "Option1 for Resolving the conflict - DEV1 - WORK2" 
+"Option1 for resolving conflict - DEV2 - WORK2"
